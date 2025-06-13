@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+.svn/
+.vscode/
+.history/
+*.vsix
+.history
+.ionide
+*.prw_
+*.lst
+.gitignore
+*.PRX_
+
